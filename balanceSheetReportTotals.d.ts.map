@@ -1,0 +1,1 @@
+{"version":3,"file":"balanceSheetReportTotals.d.ts","sourceRoot":"","sources":["../../../src/generated/types/balanceSheetReportTotals.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,MAAM,wBAAwB,GAAG;IACrC,MAAM,EAAE,MAAM,CAAC;IACf,oBAAoB,EAAE,MAAM,CAAC;IAC7B,UAAU,EAAE,MAAM,CAAC;IACnB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,yBAAyB,CAAC,EAAE,MAAM,CAAC;CACpC,CAAC"}
