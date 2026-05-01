@@ -1,0 +1,1 @@
+{"version":3,"file":"getBalanceSheetReportParams.d.ts","sourceRoot":"","sources":["../../../src/generated/types/getBalanceSheetReportParams.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAEjD,MAAM,MAAM,2BAA2B,GAAG;IACxC,IAAI,CAAC,EAAE,IAAI,CAAC;IACZ,OAAO,CAAC,EAAE,WAAW,CAAC;CACvB,CAAC"}

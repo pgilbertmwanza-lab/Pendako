@@ -1,0 +1,1 @@
+{"version":3,"file":"createInvoiceLineItemBody.d.ts","sourceRoot":"","sources":["../../../src/generated/types/createInvoiceLineItemBody.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,yBAAyB;IACxC,WAAW,EAAE,MAAM,CAAC;IACpB,QAAQ,EAAE,MAAM,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,OAAO,CAAC,EAAE,MAAM,CAAC;CAClB"}

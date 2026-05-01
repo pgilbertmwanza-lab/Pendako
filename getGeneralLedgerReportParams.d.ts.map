@@ -1,0 +1,1 @@
+{"version":3,"file":"getGeneralLedgerReportParams.d.ts","sourceRoot":"","sources":["../../../src/generated/types/getGeneralLedgerReportParams.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,MAAM,4BAA4B,GAAG;IACzC,IAAI,CAAC,EAAE,IAAI,CAAC;IACZ,EAAE,CAAC,EAAE,IAAI,CAAC;IACV,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,QAAQ,CAAC,EAAE,MAAM,CAAC;CACnB,CAAC"}
